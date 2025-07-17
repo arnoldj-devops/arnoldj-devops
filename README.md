@@ -8,6 +8,7 @@ Devops Engineer with 5+ years of experience with my head in the clouds and eyes 
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [arnoldjohnson401@gmail.com](mailto:arnoldjohnson401@gmail.com)
+* 📌  Blog: [Medium](https://arnoldj-devops.medium.com/) 
 * 🚀  I'm currently working on [cloudsql-proxy-pal](http://github.com/arnoldj-devops/cloudsql-proxy-pal)
 * 🧠  I'm learning Javascript
 
